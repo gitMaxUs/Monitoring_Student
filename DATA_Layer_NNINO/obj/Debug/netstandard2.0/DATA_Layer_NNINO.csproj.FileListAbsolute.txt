@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\DATA_Layer_NNINO\DATA_Layer_NNINO\bin\Debug\netstandard2.0\DATA_Layer_NNINO.deps.json
+C:\Users\HP\source\repos\DATA_Layer_NNINO\DATA_Layer_NNINO\bin\Debug\netstandard2.0\DATA_Layer_NNINO.dll
+C:\Users\HP\source\repos\DATA_Layer_NNINO\DATA_Layer_NNINO\obj\Debug\netstandard2.0\DATA_Layer_NNINO.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\DATA_Layer_NNINO\DATA_Layer_NNINO\obj\Debug\netstandard2.0\DATA_Layer_NNINO.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DATA_Layer_NNINO\DATA_Layer_NNINO\obj\Debug\netstandard2.0\DATA_Layer_NNINO.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DATA_Layer_NNINO\DATA_Layer_NNINO\obj\Debug\netstandard2.0\DATA_Layer_NNINO.AssemblyInfo.cs
+C:\Users\HP\source\repos\DATA_Layer_NNINO\DATA_Layer_NNINO\bin\Debug\netstandard2.0\DATA_Layer_NNINO.pdb
+C:\Users\HP\source\repos\DATA_Layer_NNINO\DATA_Layer_NNINO\obj\Debug\netstandard2.0\DATA_Layer_NNINO.dll
+C:\Users\HP\source\repos\DATA_Layer_NNINO\DATA_Layer_NNINO\obj\Debug\netstandard2.0\DATA_Layer_NNINO.pdb

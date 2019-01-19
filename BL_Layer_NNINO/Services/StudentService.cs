@@ -11,11 +11,12 @@ namespace BL_Layer_NNINO.Services
     class StudentService : IStudentService
     {
         IUnitOFWork Database;
+
         public StudentService(IUnitOFWork uow)
         {
             Database = uow;
         }
-
+        
 
         public void CreateItem(StudentDTO instanceDTO)
         {
@@ -62,9 +63,9 @@ namespace BL_Layer_NNINO.Services
         }
 
 
-        //public void Dispose()
-        //{
-        //    throw new NotImplementedException();
-        //}
+        public void Dispose()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
